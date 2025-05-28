@@ -1,6 +1,5 @@
 # Big Data course - Project
-
-## ✈️ Flight Arrival Delay Prediction with Apache Spark
+# ✈️ Flight Arrival Delay Prediction with Apache Spark
 This project tackles the real-world problem of predicting the arrival delay of commercial flights using machine learning and Apache Spark. It was developed as part of a Big Data course assignment using the Airline On-Time Performance dataset provided by the [Data Expo 2009](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HG7NV7).
 
 ## 📁 Project Structure
