@@ -29,6 +29,7 @@ The goal is to predict the arrival delay (ArrDelay) of a domestic US flight usin
 Dataset: [Data Expo 2009 - Airline On-Time Performance](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HG7NV7)
 Training year: 1991
 Testing year: 1989
+
 <ins>Note:</ins> To conserve computing resources, both the training and testing datasets were limited to 1,000 rows each, as all processing was performed locally on a personal computer.
 
 ## ❌ Forbidden Variables
