@@ -63,6 +63,6 @@ spark-submit --master local[*] app.py "[path_to_test_data]"
 
 ## 📦 Requirements
 This project uses:
-Python 3.11.9
-Apache Spark (PySpark) 3.5.3
-Jupyter Notebook
+- Python 3.11.9
+- Apache Spark (PySpark) 3.5.3
+- Jupyter Notebook
