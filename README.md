@@ -15,6 +15,7 @@ This project tackles the real-world problem of predicting the arrival delay of c
 │   └── test_data.csv         # 1989 test data
 └── README.md                 # Project description and instructions
 └── Documentation_Report.pdf  # Documentation of the project and report of the results
+└── requirements.txt              # Python dependencies required to run the notebook
 ```
 
 ## 📊 Problem Statement
