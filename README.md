@@ -75,4 +75,5 @@ This project uses:
 
 ## 📄 Documentation
 For further details on the methodology, experiments, and results, refer to:
-[requirements.txt](https://github.com/25FAdam/BigData/blob/main/Documentation_Report.pdf)
+
+[Documentation_Report.pdf](https://github.com/25FAdam/BigData/blob/main/Documentation_Report.pdf)
