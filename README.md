@@ -72,3 +72,7 @@ This project uses:
 - Python 3.11.9
 - Apache Spark (PySpark) 3.5.3
 - Jupyter Notebook
+
+## 📄 Documentation
+For further details on the methodology, experiments, and results, refer to:
+[requirements.txt](https://github.com/25FAdam/BigData/blob/main/Documentation_Report.pdf)
